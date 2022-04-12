@@ -4,6 +4,8 @@ Daily learning
 
 Project developed at Digital Innovation One's Bootcamp Java Developer with guidance from specialist Rodrigo Peleias. Learning to unit test a REST API for managing beer stocks. Build unit tests to validate the beer inventory management system developed in Spring Boot, and get to know the main concepts and advantages of creating unit tests with JUnit and Mockito. In addition, develop API functionality through the practice of TDD.
 
+![stock_beer](https://user-images.githubusercontent.com/95108889/162970668-6f2b8b23-1891-4f85-b086-7cd37a5e524f.jpeg)
+
 To run the project in the terminal, type the following command:
 
 ```shell script
