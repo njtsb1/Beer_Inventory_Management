@@ -43,3 +43,5 @@ Below are useful links:
 * [References - testing in general with Spring Boot](https://www.baeldung.com/spring-boot-testing)
 * [Reference for the REST architectural pattern](https://restfulapi.net/)
 * [Test Pyramid Reference - Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation)
+
+[LICENSE](./LICENSE)
